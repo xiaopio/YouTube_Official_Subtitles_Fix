@@ -1,0 +1,2 @@
+# YouTube_Official_Subtitles_Fix
+YouTube_Official_Subtitles_Fix(用于解决通过ytdlp-interface下载的YouTube官方字幕--srt格式--轨道重叠问题)
